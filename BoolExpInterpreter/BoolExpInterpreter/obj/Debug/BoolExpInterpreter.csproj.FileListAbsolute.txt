@@ -1,0 +1,6 @@
+c:\users\dehibernate\documents\visual studio 2013\Projects\BoolExpInterpreter\BoolExpInterpreter\bin\Debug\BoolExpInterpreter.exe.config
+c:\users\dehibernate\documents\visual studio 2013\Projects\BoolExpInterpreter\BoolExpInterpreter\obj\Debug\BoolExpInterpreter.csprojResolveAssemblyReference.cache
+c:\users\dehibernate\documents\visual studio 2013\Projects\BoolExpInterpreter\BoolExpInterpreter\bin\Debug\BoolExpInterpreter.exe
+c:\users\dehibernate\documents\visual studio 2013\Projects\BoolExpInterpreter\BoolExpInterpreter\bin\Debug\BoolExpInterpreter.pdb
+c:\users\dehibernate\documents\visual studio 2013\Projects\BoolExpInterpreter\BoolExpInterpreter\obj\Debug\BoolExpInterpreter.exe
+c:\users\dehibernate\documents\visual studio 2013\Projects\BoolExpInterpreter\BoolExpInterpreter\obj\Debug\BoolExpInterpreter.pdb

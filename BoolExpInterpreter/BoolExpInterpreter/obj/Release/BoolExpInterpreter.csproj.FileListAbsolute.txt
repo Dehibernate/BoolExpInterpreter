@@ -1,0 +1,5 @@
+C:\Users\Dehibernate\Documents\Visual Studio 2013\Projects\BoolExpInterpreter\BoolExpInterpreter\bin\Release\BoolExpInterpreter.exe.config
+C:\Users\Dehibernate\Documents\Visual Studio 2013\Projects\BoolExpInterpreter\BoolExpInterpreter\bin\Release\BoolExpInterpreter.exe
+C:\Users\Dehibernate\Documents\Visual Studio 2013\Projects\BoolExpInterpreter\BoolExpInterpreter\bin\Release\BoolExpInterpreter.pdb
+C:\Users\Dehibernate\Documents\Visual Studio 2013\Projects\BoolExpInterpreter\BoolExpInterpreter\obj\Release\BoolExpInterpreter.exe
+C:\Users\Dehibernate\Documents\Visual Studio 2013\Projects\BoolExpInterpreter\BoolExpInterpreter\obj\Release\BoolExpInterpreter.pdb
